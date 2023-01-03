@@ -40,7 +40,7 @@ Project Organization
     ├── .gitignore                   <- For environment directories
     │
     ├── EyesMove                     <- Containing the software itself
-    │   ├── eye_movement             <- Directory of trained model .gitignored
+    │   ├── eye_movement             <- Directory of trained model
     │   ├── back.py                  <- backend code
     │   └── runner.py                <- Running the software
     │
