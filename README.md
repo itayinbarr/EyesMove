@@ -1,7 +1,7 @@
 EyesMove
 ==============================
 
-A recurrent neural network model I created & trained, to tell if a person has his eyes closed, based
+A dense neural network model I created & trained, to tell if a person has his eyes closed, based
 on EEG data from several electrodes.
 
 This project is a demonstration of creating and training a DNN based on EEG data.
